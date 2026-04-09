@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+.venv/
+
+# API keys - never commit these
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# PyCharm
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

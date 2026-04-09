@@ -1,0 +1,11 @@
+Salman's Python Notes
+
+Python lists are ordered collections. You can add items with append() and remove with remove().
+
+Python dictionaries store key-value pairs. Access values using dict['key'].
+
+Functions in Python are defined using the def keyword. Use *args for variable arguments and **kwargs for keyword arguments.
+
+A decorator is a function that wraps another function to add extra behaviour without modifying it.
+
+List comprehensions are a concise way to create lists: [x*2 for x in range(10)]
