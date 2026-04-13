@@ -51,7 +51,7 @@ def answer_node(state: AgentState):
 
     return {"answer":answer}
 
-def decline_node(state:AgentState):
+def decline_node(state : AgentState):
     print("---declining its a non-python question---")
 
     return {"answer":"i only answer something in python can you please ask something in python"}
